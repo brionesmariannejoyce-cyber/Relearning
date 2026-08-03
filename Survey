@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, intial-scale=1.0">
+</head>
+<body>
+<form id="survey-form" action="">
+<fielset>
+<label id="name-label">Full Name:</label>
+<input
+required
+id="name"
+type="text"
+name="name"
+value="John"
+placeholder="e.g. John"
+>
+</fieldset>
+
+</body>
+</html>
