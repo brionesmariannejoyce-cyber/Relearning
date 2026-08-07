@@ -16,9 +16,12 @@
     <nav>
 <ul>
   <li><a href="#benefits-of-mental-health-checks">Benefits of Mental Health Checks</a></li>
-  <li><a href="</li>
+  <li><a href="#what-factors-are-contributing-to-declining-mental-health-in-singapore">What factors are contributing to declining mental health in singapore</a></li>
+</ul>
 
-  </ul>
+  
+
+
   <!--TODO=Make a dh,dt,dd of benefits of mental health check-->
   <!--TODO=Make a illustration and diagram after this and then make a survey about it-->
   <!--TODO=Make use of select,option, transferring to a website-->
