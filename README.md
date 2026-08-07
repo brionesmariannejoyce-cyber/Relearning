@@ -32,6 +32,10 @@
   <dt>Personalized guidance</dt>
   <dd>Coping strategies, therapy options, and self-care practices</dd>
 </dh>
+<figure>
+  <img src="https://github.com/brionesmariannejoyce-cyber/Relearning/blob/60c8d3c85b741ad5d094b677f02712358c3ec3d6/MentalHealthChecklistwm.webp" alt="mental health check list">
+  <
+</figure>
 
 </section>
 
