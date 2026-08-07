@@ -19,6 +19,23 @@
   <li><a href="#what-factors-are-contributing-to-declining-mental-health-in-singapore">What factors are contributing to declining mental health in singapore</a></li>
 </ul>
 
+<section id="benefits-of-mental-health-checks">
+<h2>Benefits of Mental Health Checks</h2>
+
+<dh>
+<dt>Early detection</dt>
+<dd>Mental health issues, which allows for timely intervention and management</dd>
+  <dt>Empowerment</dt>
+  <dd>Make informed decisions about your mental health and lifestyle changes</dd>
+  <dt>Prevention</dt>
+  <dd>Escalation into more serious conditions such as chronic stress, burnout, or severe mental illnesses</dd>
+  <dt>Personalized guidance</dt>
+  <dd>Coping strategies, therapy options, and self-care practices</dd>
+</dh>
+
+</section>
+
+
   
 
 
@@ -26,5 +43,6 @@
   <!--TODO=Make a illustration and diagram after this and then make a survey about it-->
   <!--TODO=Make use of select,option, transferring to a website-->
   <a href="https://github.com/brionesmariannejoyce-cyber/Relearning/blob/ad522fe3ef2c98e91f1efeb7410fdd0e85226e97/Survey" target="_blank"><button>Take a Survey</button></a>
+  </main>
 </body>
 </html>
