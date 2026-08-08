@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale="1.0">
+<meta name="description" content="A mental health check evaluates strong areas such as stress, anxiety, depression, coping mechanism and overall emotional well-being."
 </head>
   <body>
     <header>
