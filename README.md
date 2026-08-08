@@ -22,7 +22,7 @@
 <section id="benefits-of-mental-health-checks">
 <h2>Benefits of Mental Health Checks</h2>
 
-<dh>
+<dl>
 <dt>Early detection</dt>
 <dd>Mental health issues, which allows for timely intervention and management</dd>
   <dt>Empowerment</dt>
@@ -31,7 +31,7 @@
   <dd>Escalation into more serious conditions such as chronic stress, burnout, or severe mental illnesses</dd>
   <dt>Personalized guidance</dt>
   <dd>Coping strategies, therapy options, and self-care practices</dd>
-</dh>
+</dl>
 <figure>
   <img src="https://github.com/brionesmariannejoyce-cyber/Relearning/blob/60c8d3c85b741ad5d094b677f02712358c3ec3d6/MentalHealthChecklistwm.webp" alt="mental health check list">
   <
